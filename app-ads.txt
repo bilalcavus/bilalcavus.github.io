@@ -194,6 +194,7 @@ mindtos.com, maca7398339177c05, RESELLER
 mintegral.com, 10005, RESELLER
 mintegral.com, 10030, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf7726, RESELLER
+monetrix.ai, 10761, RESELLER
 my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
 nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
 nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
@@ -387,6 +388,7 @@ smaato.com, 1100056087, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058938, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058954, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059476, RESELLER, 07bcf65f187117b4
 smaato.com, 1100059563, RESELLER, 07bcf65f187117b4
 smartadserver.com, 1692, RESELLER
@@ -426,6 +428,7 @@ sonobi.com, d2b13d1c36, RESELLER, d1a215d9eb5aee9e
 sovrn.com, 500520, RESELLER, fafdf38b16bf6b2b
 spinx.biz, 1373698903, RESELLER, 9f2711e9aaa9f992
 ssp.zetaglobal.net, 815, RESELLER
+start.io, 131192070, RESELLER
 start.io, 162328800, RESELLER
 start.io, 197760873, RESELLER
 stroeer.com, 17379, RESELLER
